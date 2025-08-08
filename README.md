@@ -17,7 +17,7 @@ This design features frosted glass effects, soft shadows, and vibrant gradients 
 - **CSS3** – Styling and glassmorphism effects  
 
 
-💖 If you like this project, don't forget to ⭐ the repository!
+## 💖 If you like this project, don't forget to ⭐ the repository!
 
 
 ## 📂 Project Structure
